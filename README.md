@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">About Me !<br>👋 Hi, I’m Priyanshu Pandey.<br>🚀 Passionate 2nd-year B.Tech student on a journey to become a world-class Software Engineer.<br>💡 Currently learning JavaScript, moving into backend development, and exploring full-stack projects.<br>🛠️ Skilled in HTML, CSS, and building creative, real-world web projects.<br>🌱 I believe in continuous learning, solving problems with code, and adding creativity to everything I build.</h2>
+<h2 align="left">About Me !<br>👋 Hi, I’m Sparsh Tyagi.<br>🚀 Passionate 2nd-year B.Tech student on a journey to become a world-class Software Engineer.<br>💡 Currently learning JavaScript, moving into backend development, and exploring full-stack projects.<br>🛠️ Skilled in HTML, CSS, and building creative, real-world web projects.<br>🌱 I believe in continuous learning, solving problems with code, and adding creativity to everything I build.</h2>
 
 ###
 
